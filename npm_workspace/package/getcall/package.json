@@ -1,0 +1,15 @@
+{
+  "name": "@npm_workspace/getcall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@npm_workspace/postcall":"1.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
